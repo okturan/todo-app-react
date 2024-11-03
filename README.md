@@ -5,8 +5,8 @@ This project is a React implementation of the ToDo application by [Dmitry Sharab
 
 ## Live Demo
 
-You can try out the live demo of the application [here](your_live_demo_link).
-![React ToDo App Screenshot](screenshot.png)
+You can try out the live demo of the application [here](https://todo-app-react-elk.pages.dev/).
+![React ToDo App Screen Recording](screen-recording.gif)
 
 
 ## Features
